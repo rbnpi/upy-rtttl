@@ -1,4 +1,4 @@
-# Additions for using RTTL with Sonic Pi #
+# Additions for using RTTTL with Sonic Pi #
 The files in this folder enable the data retrieved from the songs.py file
 to be parsed by rtttl.py and for the resulting frequency and time pairs
 to be transferred for playing on the music program Sonic Pi using its
